@@ -1,6 +1,6 @@
 hostname = 'localhost'
 username = 'root'
-password = 'bizruntime@123'
+password = '******'
 database = 'bitcoin'
 
 # Simple routine to run a query on a database and print the results:
